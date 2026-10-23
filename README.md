@@ -4,6 +4,8 @@ ByteForge is a small C command-line tool for looking inside files. It shows file
 
 I made it as a way to practise C file handling, pointers, buffers, and dynamic memory allocation. It uses only the C standard library.
 
+![Preview](./image.png)
+
 ## What it does
 
 - Shows the size of a file.
@@ -12,6 +14,10 @@ I made it as a way to practise C file handling, pointers, buffers, and dynamic m
 - Searches for text and prints the offsets where it appears.
 - Reads files in chunks instead of loading the whole file into memory.
 - Opens files read-only; it does not change them.
+
+## Documentation
+
+- [Usage Guide](USE_GUIDE.md) — Installation, commands, examples, and troubleshooting.
 
 ## Build (Checkout the USE_GUIDE.md)
 
