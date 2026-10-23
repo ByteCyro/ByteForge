@@ -1,0 +1,3 @@
+ByteForge is a small C file inspector.
+It shows bytes in hexadecimal and ASCII.
+Try searching for ByteForge in this file.
