@@ -13,7 +13,7 @@ I made it as a way to practise C file handling, pointers, buffers, and dynamic m
 - Reads files in chunks instead of loading the whole file into memory.
 - Opens files read-only; it does not change them.
 
-## Build
+## Build (Checkout the USE_GUIDE.md)
 
 With GCC or Clang:
 
